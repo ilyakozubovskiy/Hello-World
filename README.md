@@ -13,7 +13,7 @@ This is a beginner level task for practicing AutoCode tasks management.
 
 1. [Build the solution](https://docs.microsoft.com/en-us/visualstudio/ide/building-and-cleaning-projects-and-solutions-in-visual-studio).
     * Click on menu item - _Build\Build Solution_.
-    * Or use default keyboard shortcut - _Ctrl++Shift+B_.
+    * Or use default keyboard shortcut - _Ctrl+Shift+B_.
 1. Run all unit tests.
     * Click on menu item - _Test\Run All Tests_.
     * Or use defaul keyboard shortcut - _Ctrl+R, A_.

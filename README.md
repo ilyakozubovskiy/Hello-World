@@ -28,14 +28,14 @@ This is a beginner level task for practicing AutoCode tasks management.
 1. Uncomment the commented line in the "ReturnOne" method, and comment "throw new..." line.
     * For commenting selected lines you can use the default shortcut - _Ctrl+K, Ctrl+C_.
     * For uncommenting selected lines you can use the default shortcut - _Ctrl+K, Ctrl+U_.
-```cs
-public static int ReturnOne()
-{
-    // TODO #1. Uncomment the line below and remove the line that throws NotImplementedException.
-    return 1;
-    //throw new NotImplementedException();
-}
-```
+    ```cs
+    public static int ReturnOne()
+    {
+        // TODO #1. Uncomment the line below and remove the line that throws NotImplementedException.
+        return 1;
+        //throw new NotImplementedException();
+    }
+    ```
 1. Open the Test Explorer, click on "ReturnOne" unit test with your right mouse button, and click on "Run" menu item.
     * Or use default shortcut - _Ctrl+R, T_.
 1. Uncomment the commented line in the "ReturnTrue" method in the [SimpleClass.cs](HelloWorld/SimpleClass.cs) file, and comment "throw new..." line.

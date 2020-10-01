@@ -1,47 +1,47 @@
-# Hello, world!
+п»ї# Hello, world!
 
-Задача начального уровня для практики навыка управления задачами в AutoCode. Переводы: [Английский](README.md).
-
-
-## Заберите проект
-
-* [Откройте проект в Visual Studio из внешнего Git-репозитория](https://docs.microsoft.com/ru-ru/visualstudio/get-started/tutorial-open-project-from-repo) или [склонируйте внешний Git-репозиторий на Ваш локальный диск](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/clone#clone-from-another-git-provider) при помощи Visual Studio.
+Р—Р°РґР°С‡Р° РЅР°С‡Р°Р»СЊРЅРѕРіРѕ СѓСЂРѕРІРЅСЏ РґР»СЏ РїСЂР°РєС‚РёРєРё РЅР°РІС‹РєР° СѓРїСЂР°РІР»РµРЅРёСЏ Р·Р°РґР°С‡Р°РјРё РІ AutoCode. РџРµСЂРµРІРѕРґС‹: [РђРЅРіР»РёР№СЃРєРёР№](README.md).
 
 
-## Завершите задачу
+## Р—Р°Р±РµСЂРёС‚Рµ РїСЂРѕРµРєС‚
 
-1. Откройте вкладку [Solution Explorer](https://docs.microsoft.com/ru-ru/visualstudio/ide/solutions-and-projects-in-visual-studio#solution-explorer).
-    * Выберите элемент меню - _View\Solution Explorer_.
-    * Или используйте сочетание клавиш - _Ctrl+W, S_.
-1. Найдите во вкладке Solution Explorer проекты "HelloWorld" и "HelloWorld.Tests".
-1. Разверните проект "HelloWorld" и найдите в проекте файл [SimpleHelloWorld.cs](HelloWorld/SimpleHelloWorld.cs).
-1. Разверните проект "HelloWorld.Tests" и найдите в проекте файл [SimpleHelloWorldTests.cs](HelloWorld.Tests/SimpleHelloWorldTests.cs).
-1. [Соберите решение](https://docs.microsoft.com/ru-ru/visualstudio/ide/building-and-cleaning-projects-and-solutions-in-visual-studio).
-    * Выберите элемент меню - _Build\Build Solution_.
-    * Или используйте сочетание клавиш - _Ctrl+Shift+B_.
-1. Откройте вкладку [Error List](https://docs.microsoft.com/ru-ru/visualstudio/ide/find-and-fix-code-errors#review-the-error-list). Убедитесь, что во вкладке нет проблем (ошибок или предупреждений), которые смог обнаружить компилятор C#.
-    * Выберите элемент меню - _View\Error List_.
-    * Или используйте сочетание клавиш - _Ctrl+W, E_.
-1. Запустите все юнит-тесты.
-    * Выберите элемент меню - _Test\Run All Tests_.
-    * Или используйте сочетание клавиш - _Ctrl+R, A_.
-1. Откройте вкладку [Test Explorer](https://docs.microsoft.com/ru-ru/visualstudio/test/run-unit-tests-with-test-explorer).
-    * Выберите элемент меню - _View\Test Explorer_.
-    * Или используйте сочетание клавиш - _Ctrl+E, T_.
-1. Выберите элементе "HelloWorld.Tests" в списке тестов, нажмите на нем правой кнопкой мыши и выберите в меню "Run". Все элементы в списке станут "зелеными".
-    * Или используйте сочетание клавиш - _Ctrl+R, T_.
-1. Разверните список, если необходимо. Нажмите правой клавишей на тесте "ReturnHelloWorld" и выберите в меню "Run". Выбранный элемент станет "зеленым".
-    * Или используйте сочетание клави - _Ctrl+R, T_.
+* [РћС‚РєСЂРѕР№С‚Рµ РїСЂРѕРµРєС‚ РІ Visual Studio РёР· РІРЅРµС€РЅРµРіРѕ Git-СЂРµРїРѕР·РёС‚РѕСЂРёСЏ](https://docs.microsoft.com/ru-ru/visualstudio/get-started/tutorial-open-project-from-repo) РёР»Рё [СЃРєР»РѕРЅРёСЂСѓР№С‚Рµ РІРЅРµС€РЅРёР№ Git-СЂРµРїРѕР·РёС‚РѕСЂРёР№ РЅР° Р’Р°С€ Р»РѕРєР°Р»СЊРЅС‹Р№ РґРёСЃРє](https://docs.microsoft.com/ru-ru/azure/devops/repos/git/clone#clone-from-another-git-provider) РїСЂРё РїРѕРјРѕС‰Рё Visual Studio.
+
+
+## Р—Р°РІРµСЂС€РёС‚Рµ Р·Р°РґР°С‡Сѓ
+
+1. РћС‚РєСЂРѕР№С‚Рµ РІРєР»Р°РґРєСѓ [Solution Explorer](https://docs.microsoft.com/ru-ru/visualstudio/ide/solutions-and-projects-in-visual-studio#solution-explorer).
+    * Р’С‹Р±РµСЂРёС‚Рµ СЌР»РµРјРµРЅС‚ РјРµРЅСЋ - _View\Solution Explorer_.
+    * РР»Рё РёСЃРїРѕР»СЊР·СѓР№С‚Рµ СЃРѕС‡РµС‚Р°РЅРёРµ РєР»Р°РІРёС€ - _Ctrl+W, S_.
+1. РќР°Р№РґРёС‚Рµ РІРѕ РІРєР»Р°РґРєРµ Solution Explorer РїСЂРѕРµРєС‚С‹ "HelloWorld" Рё "HelloWorld.Tests".
+1. Р Р°Р·РІРµСЂРЅРёС‚Рµ РїСЂРѕРµРєС‚ "HelloWorld" Рё РЅР°Р№РґРёС‚Рµ РІ РїСЂРѕРµРєС‚Рµ С„Р°Р№Р» [SimpleHelloWorld.cs](HelloWorld/SimpleHelloWorld.cs).
+1. Р Р°Р·РІРµСЂРЅРёС‚Рµ РїСЂРѕРµРєС‚ "HelloWorld.Tests" Рё РЅР°Р№РґРёС‚Рµ РІ РїСЂРѕРµРєС‚Рµ С„Р°Р№Р» [SimpleHelloWorldTests.cs](HelloWorld.Tests/SimpleHelloWorldTests.cs).
+1. [РЎРѕР±РµСЂРёС‚Рµ СЂРµС€РµРЅРёРµ](https://docs.microsoft.com/ru-ru/visualstudio/ide/building-and-cleaning-projects-and-solutions-in-visual-studio).
+    * Р’С‹Р±РµСЂРёС‚Рµ СЌР»РµРјРµРЅС‚ РјРµРЅСЋ - _Build\Build Solution_.
+    * РР»Рё РёСЃРїРѕР»СЊР·СѓР№С‚Рµ СЃРѕС‡РµС‚Р°РЅРёРµ РєР»Р°РІРёС€ - _Ctrl+Shift+B_.
+1. РћС‚РєСЂРѕР№С‚Рµ РІРєР»Р°РґРєСѓ [Error List](https://docs.microsoft.com/ru-ru/visualstudio/ide/find-and-fix-code-errors#review-the-error-list). РЈР±РµРґРёС‚РµСЃСЊ, С‡С‚Рѕ РІРѕ РІРєР»Р°РґРєРµ РЅРµС‚ РїСЂРѕР±Р»РµРј (РѕС€РёР±РѕРє РёР»Рё РїСЂРµРґСѓРїСЂРµР¶РґРµРЅРёР№), РєРѕС‚РѕСЂС‹Рµ СЃРјРѕРі РѕР±РЅР°СЂСѓР¶РёС‚СЊ РєРѕРјРїРёР»СЏС‚РѕСЂ C#.
+    * Р’С‹Р±РµСЂРёС‚Рµ СЌР»РµРјРµРЅС‚ РјРµРЅСЋ - _View\Error List_.
+    * РР»Рё РёСЃРїРѕР»СЊР·СѓР№С‚Рµ СЃРѕС‡РµС‚Р°РЅРёРµ РєР»Р°РІРёС€ - _Ctrl+W, E_.
+1. Р—Р°РїСѓСЃС‚РёС‚Рµ РІСЃРµ СЋРЅРёС‚-С‚РµСЃС‚С‹.
+    * Р’С‹Р±РµСЂРёС‚Рµ СЌР»РµРјРµРЅС‚ РјРµРЅСЋ - _Test\Run All Tests_.
+    * РР»Рё РёСЃРїРѕР»СЊР·СѓР№С‚Рµ СЃРѕС‡РµС‚Р°РЅРёРµ РєР»Р°РІРёС€ - _Ctrl+R, A_.
+1. РћС‚РєСЂРѕР№С‚Рµ РІРєР»Р°РґРєСѓ [Test Explorer](https://docs.microsoft.com/ru-ru/visualstudio/test/run-unit-tests-with-test-explorer).
+    * Р’С‹Р±РµСЂРёС‚Рµ СЌР»РµРјРµРЅС‚ РјРµРЅСЋ - _View\Test Explorer_.
+    * РР»Рё РёСЃРїРѕР»СЊР·СѓР№С‚Рµ СЃРѕС‡РµС‚Р°РЅРёРµ РєР»Р°РІРёС€ - _Ctrl+E, T_.
+1. Р’С‹Р±РµСЂРёС‚Рµ СЌР»РµРјРµРЅС‚Рµ "HelloWorld.Tests" РІ СЃРїРёСЃРєРµ С‚РµСЃС‚РѕРІ, РЅР°Р¶РјРёС‚Рµ РЅР° РЅРµРј РїСЂР°РІРѕР№ РєРЅРѕРїРєРѕР№ РјС‹С€Рё Рё РІС‹Р±РµСЂРёС‚Рµ РІ РјРµРЅСЋ "Run". Р’СЃРµ СЌР»РµРјРµРЅС‚С‹ РІ СЃРїРёСЃРєРµ СЃС‚Р°РЅСѓС‚ "Р·РµР»РµРЅС‹РјРё".
+    * РР»Рё РёСЃРїРѕР»СЊР·СѓР№С‚Рµ СЃРѕС‡РµС‚Р°РЅРёРµ РєР»Р°РІРёС€ - _Ctrl+R, T_.
+1. Р Р°Р·РІРµСЂРЅРёС‚Рµ СЃРїРёСЃРѕРє, РµСЃР»Рё РЅРµРѕР±С…РѕРґРёРјРѕ. РќР°Р¶РјРёС‚Рµ РїСЂР°РІРѕР№ РєР»Р°РІРёС€РµР№ РЅР° С‚РµСЃС‚Рµ "ReturnHelloWorld" Рё РІС‹Р±РµСЂРёС‚Рµ РІ РјРµРЅСЋ "Run". Р’С‹Р±СЂР°РЅРЅС‹Р№ СЌР»РµРјРµРЅС‚ СЃС‚Р°РЅРµС‚ "Р·РµР»РµРЅС‹Рј".
+    * РР»Рё РёСЃРїРѕР»СЊР·СѓР№С‚Рµ СЃРѕС‡РµС‚Р°РЅРёРµ РєР»Р°РІРё - _Ctrl+R, T_.
 
 
 ## Save Your Work
 
-В этом задании нет задач на кодирование. Перейдите на портал AutoCode, откройте страницу задания и нажмите кнопку "Check task".
+Р’ СЌС‚РѕРј Р·Р°РґР°РЅРёРё РЅРµС‚ Р·Р°РґР°С‡ РЅР° РєРѕРґРёСЂРѕРІР°РЅРёРµ. РџРµСЂРµР№РґРёС‚Рµ РЅР° РїРѕСЂС‚Р°Р» AutoCode, РѕС‚РєСЂРѕР№С‚Рµ СЃС‚СЂР°РЅРёС†Сѓ Р·Р°РґР°РЅРёСЏ Рё РЅР°Р¶РјРёС‚Рµ РєРЅРѕРїРєСѓ "Check task".
 
-Нет необходимости изменять код, делать коммиты и отправлять во внеший репозиторий (его еще называют удаленным).
+РќРµС‚ РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё РёР·РјРµРЅСЏС‚СЊ РєРѕРґ, РґРµР»Р°С‚СЊ РєРѕРјРјРёС‚С‹ Рё РѕС‚РїСЂР°РІР»СЏС‚СЊ РІРѕ РІРЅРµС€РёР№ СЂРµРїРѕР·РёС‚РѕСЂРёР№ (РµРіРѕ РµС‰Рµ РЅР°Р·С‹РІР°СЋС‚ СѓРґР°Р»РµРЅРЅС‹Рј).
 
 
-## Дополнительная информация
+## Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ
 
 * Visual Studio
   * [Getting Started with Visual Studio 2019](https://www.youtube.com/watch?v=1CgsMtUmVgs)

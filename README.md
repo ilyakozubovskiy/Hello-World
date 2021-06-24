@@ -1,6 +1,6 @@
 # Hello, world!
 
-This is a beginner level task for practicing AutoCode tasks management. Translations: [Russian](README-RU.md).
+This is the beginner level task for practicing AutoCode tasks management. Translations: [Russian](README-RU.md).
 
 
 ## Get the Project

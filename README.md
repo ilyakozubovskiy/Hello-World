@@ -11,7 +11,7 @@ This is a beginner level task for practicing AutoCode tasks management. Translat
 ## Complete the Task
 
 1. Open a [Solution Explorer](https://docs.microsoft.com/en-us/visualstudio/ide/solutions-and-projects-in-visual-studio#solution-explorer).
-    * Click on menu item - _View\Solution Explorer_.
+    * Click on the menu item - _View\Solution Explorer_.
     * Or use default keyboard shortcut - _Ctrl+W, S_.
 1. Find "HelloWorld" and "HelloWorld.Tests" projects in the Solution Explorer view.
 1. Open the "HelloWorld" project and find [SimpleHelloWorld.cs](HelloWorld/SimpleHelloWorld.cs) file in the project. Open the file in editor window.

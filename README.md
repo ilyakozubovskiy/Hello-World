@@ -20,7 +20,7 @@ This is a beginner level task for practicing AutoCode tasks management. Translat
     * Click on menu item - _Build\Build Solution_.
     * Or use default keyboard shortcut - _Ctrl+Shift+B_.
 1. Open [Error List](https://docs.microsoft.com/en-us/visualstudio/ide/find-and-fix-code-errors#review-the-error-list) view, and make sure there are no compiler issues (warnings or errors).
-    * Click on menu item - _View\Error List_.
+    * Click a menu item - _View\Error List_.
     * Or use default shortcut - _Ctrl+W, E_.
 1. Open the [Test Explorer](https://docs.microsoft.com/ru-ru/visualstudio/test/run-unit-tests-with-test-explorer). All tests in the test list are have blue icon with white exclamation mark. That tell us the unit tests were not runned.
     * Click on menu item - _View\Test Explorer_.
